@@ -1,0 +1,26 @@
+body {
+  background: #000000;
+}
+
+p {
+  color: #009dff;
+}
+
+h3 {
+  color: #009dff; 
+}
+button {
+  background-color: #000000;
+  color: #009dff;
+  border: 1px solid #0061fe;
+  transition-duration: 0.45s;
+  width: 175px;
+  height: 50px;
+}
+button:hover {
+  background-color:#009dff;
+  color: white;
+}
+h1 {
+  color: #009dff;
+}
